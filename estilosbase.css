@@ -1,6 +1,12 @@
 @charset "utf-8";
-#cajafucsia {
+#verde {
 	width: 150px;
 	height: 150px;
 	background-color: #70DD00;
+}
+#naranja {
+	width: 150px;
+	height: 150px;
+	background-color: #FCB502;
+	
 }
